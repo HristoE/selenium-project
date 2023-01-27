@@ -10,7 +10,7 @@ public class T4_Practice {
 
         //Practice Cydeo – xpath locator practice
 
-        //1- Open a chrome browser
+        //1- Open a Chrome browser
         WebDriver driver = WebDriverFactory.getDriver("chrome");
         driver.manage().window().maximize();
 
