@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class T5_WindowsPractice {
+public class T5_windowPractice {
 
 
     WebDriver driver;
@@ -21,7 +21,7 @@ public class T5_WindowsPractice {
 
         //TC #5: Window Handle practice
         //1. Create a new class called: T5_WindowsPractice
-        //2. Create new test and make set ups
+        //2. Create new test and make Setups.
         //3. Go to : https://practice.cydeo.com/windows
 
         driver = WebDriverFactory.getDriver("chrome");
